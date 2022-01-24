@@ -1,0 +1,24 @@
+@import url("webfonts/Hey_Gorgeous/stylesheet.css");
+body {
+    background-color: #000000;
+}
+h1 {
+    color: #FFFFFF;
+    font-family: "Hey Gorgeous";
+    text-align: center;
+    /* [disabled]background-repeat: no-repeat; */
+}
+h2 {
+    font-family: "Hey Gorgeous";
+    color: #FFFFFF;
+    font-size: xx-small;
+    text-align: center;
+}
+h3 {
+    font-family: "Hey Gorgeous";
+    color: #FFFFFF;
+    font-size: small;
+    text-align: center;
+}
+© 2022 GitHub, Inc.
+Term
